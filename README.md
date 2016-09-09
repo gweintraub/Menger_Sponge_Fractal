@@ -1,3 +1,3 @@
 # Menger Sponge Fractal
 
-[Screenshot.png]
+(Screenshot.png)
